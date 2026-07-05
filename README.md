@@ -1,66 +1,57 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <h1>⚡ MUHAMMED HYTHAM ⚡</h1>
-  <p><b>Frontend Engineer • Software Architecture & System Design Enthusiast</b></p>
-  <p><i>Building scalable, high-performance, and reliable web architectures.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=200&section=header&text=MUHAMMED%20HYTHAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20System%20Design%20%26%20Architecture&descAlignY=55&descSize=18" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohaitam-web&label=PROFILE+VIEWS&color=24292e&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+scalable+web+architectures;Turning+complex+patterns+into+clean+UX;Currently+deep+diving+into+Next.js" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohaitam-web&label=PROFILE+VIEWS&color=10b981&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
-<!-- BIOGRAPHY / ARCHITECTURE FOCUS -->
 ## 🎯 Professional Overview
-
 I am a dedicated Frontend Developer stepping deep into **System Design** and **Software Architecture**. My goal is to bridge the gap between complex architectural patterns and exceptional user experiences. I don't just write functional code; I structure applications to be maintainable, testable, and optimized for real-world performance.
 
 ---
 
-<!-- TECH STACK SECTION (Animated Icons Grid) -->
 ## 💻 Tech Stack & Tooling
-
 <p align="left">
-  <!-- HTML5 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux&theme=dark" alt="Tech Stack Core" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux&theme=dark" alt="Tech Stack Core" />
 </p>
-
 <p align="left">
-  <!-- Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,webpack,babel,nodejs,postman,cpp&theme=dark" alt="Tools and Workflow" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,webpack,babel,nodejs,postman,cpp&theme=dark" alt="Tools and Workflow" />
 </p>
 
 ---
 
-<!-- CURRENT ACTIVE FOCUS -->
 ## 🚀 Current Initiatives
-
-*   🌱 **Deep Dive:** Mastering server-side architectures, caching strategies, and performance patterns using **Next.js** and advanced **React** ecosystems.
-*   📐 **Architectural Patterns:** Implementing clear multi-page application patterns, preventive layout thrashing techniques, and strict data-flow models.
-*   💬 **Let's Connect:** Ask me about anything related to component lifecycle, clean code practices, and structuring modular projects.
+* 🌱 **Deep Dive:** Mastering server-side architectures, caching strategies, and performance patterns using **Next.js** and advanced **React** ecosystems.
+* 📐 **Architectural Patterns:** Implementing clear multi-page application patterns, preventive layout thrashing techniques, and strict data-flow models.
+* 💬 **Let's Connect:** Ask me about anything related to component lifecycle, clean code practices, and structuring modular projects.
 
 ---
 
-<!-- ENGAGEMENT & ANALYTICS (FIXED & ALTERNATIVE) -->
 ## 📊 Analytical Insights
-
 <div align="center">
-  <!-- تم استبدال الكروت المكسورة بـ GitHub Readme Streak & Stats المستقرة والمجربة حالياً -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaitam-web&theme=dark&hide_border=true" alt="GitHub Streak" #gh-dark-mode-only />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaitam-web&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohaitam-web&theme=react-dark&area=true&hide_border=true" alt="Muhammed's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohaitam-web&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
-<!-- SOCIALS & CONNECT (Clean Badges) -->
-## 🌐 Architectural Node (Connect)
+## 🐍 Contribution Snake (Animated)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohaitam-web/mohaitam-web/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
 
+---
+
+## 🌐 Architectural Node (Connect)
 <div align="left">
   <a href="https://linkedin.com/in/mohamed-haitham-ِaboobia-113694335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
