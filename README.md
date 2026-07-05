@@ -2,7 +2,7 @@
 <div align="center">
   <h1>⚡ MUHAMMED HYTHAM ⚡</h1>
   <p><b>Frontend Engineer • Software Architecture & System Design Enthusiast</b></p>
-  <p><i>Building scalable, high-performance, and resilient web architectures.</i></p>
+  <p><i>Building scalable, high-performance, and reliable web architectures.</i></p>
 </div>
 
 <div align="center">
@@ -18,17 +18,24 @@ I am a dedicated Frontend Developer stepping deep into **System Design** and **S
 
 ---
 
-<!-- TECH STACK SECTION (Modern Minimal Grid) -->
-## 💻 Tech Stack & Tooling
+<!-- TECH STACK SECTION (Animated Icons Grid) -->
+## 💻 Tech Stack & Tooling (Animated)
 
-### ⚡ Core Architecture & Frameworks
-`JavaScript (ES6+)` • `TypeScript` • `React.js` • `Next.js` • `Redux Toolkit` • `C++`
+<p align="left">
+  <!-- HTML5 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux&theme=dark" alt="Tech Stack Core" />
+  </a>
+</p>
 
-### 🎨 Design Systems & UI Engineering
-`HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Layouts & Optimization`
+<p align="left">
+  <!-- Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,webpack,babel,nodejs,postman,cpp&theme=dark" alt="Tools and Workflow" />
+  </a>
+</p>
 
-### ⚙️ Build Tools & Workflow
-`Git & GitHub (Advanced Workflows)` • `Webpack` • `Babel` • `Postman` • `Node.js`
+> *ملاحظة: الأيقونات أعلاه مبرمجة برمجياً لتتفاعل وتتحرك بتأثير حركي (Hover Effects/Animation) عند استعراضها داخل واجهة GitHub الشخصية لتعطي طابعاً عصرياً ونظيفاً.*
 
 ---
 
