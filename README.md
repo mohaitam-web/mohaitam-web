@@ -19,7 +19,7 @@ I am a dedicated Frontend Developer stepping deep into **System Design** and **S
 ---
 
 <!-- TECH STACK SECTION (Animated Icons Grid) -->
-## 💻 Tech Stack & Tooling (Animated)
+## 💻 Tech Stack & Tooling
 
 <p align="left">
   <!-- HTML5 -->
