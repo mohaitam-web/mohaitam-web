@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=200&section=header&text=MUHAMMED%20HYTHAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20System%20Design%20%26%20Architecture&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=200&section=header&text=MUHAMMED%20HYTHAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20System%20Design%20and%20Architecture&descAlignY=55&descSize=18" alt="header" />
 </div>
 
 <div align="center">
@@ -40,13 +40,6 @@ I am a dedicated Frontend Developer stepping deep into **System Design** and **S
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaitam-web&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohaitam-web&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake (Animated)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohaitam-web/mohaitam-web/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
