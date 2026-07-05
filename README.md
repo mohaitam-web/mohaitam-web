@@ -46,20 +46,14 @@ I am a dedicated Frontend Developer stepping deep into **System Design** and **S
 
 ---
 
-<!-- ENGAGEMENT & ANALYTICS -->
+<!-- ENGAGEMENT & ANALYTICS (FIXED & ALTERNATIVE) -->
 ## 📊 Analytical Insights
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohaitam-web&show_icons=true" alt="GitHub General Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaitam-web&layout=compact" alt="Top Languages Stats" />
-      </td>
-    </tr>
-  </table>
+  <!-- تم استبدال الكروت المكسورة بـ GitHub Readme Streak & Stats المستقرة والمجربة حالياً -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaitam-web&theme=dark&hide_border=true" alt="GitHub Streak" #gh-dark-mode-only />
+  <br><br>
+  <img src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=mohaitam-web&theme=monokai" alt="GitHub Profile Details" />
 </div>
 
 ---
