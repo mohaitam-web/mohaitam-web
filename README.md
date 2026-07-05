@@ -35,8 +35,6 @@ I am a dedicated Frontend Developer stepping deep into **System Design** and **S
   </a>
 </p>
 
-> *ملاحظة: الأيقونات أعلاه مبرمجة برمجياً لتتفاعل وتتحرك بتأثير حركي (Hover Effects/Animation) عند استعراضها داخل واجهة GitHub الشخصية لتعطي طابعاً عصرياً ونظيفاً.*
-
 ---
 
 <!-- CURRENT ACTIVE FOCUS -->
