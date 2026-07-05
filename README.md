@@ -53,7 +53,7 @@ I am a dedicated Frontend Developer stepping deep into **System Design** and **S
   <!-- تم استبدال الكروت المكسورة بـ GitHub Readme Streak & Stats المستقرة والمجربة حالياً -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaitam-web&theme=dark&hide_border=true" alt="GitHub Streak" #gh-dark-mode-only />
   <br><br>
-  <img src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=mohaitam-web&theme=monokai" alt="GitHub Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohaitam-web&theme=react-dark&area=true&hide_border=true" alt="Muhammed's GitHub Activity Graph" width="100%" />
 </div>
 
 ---
